@@ -12,7 +12,7 @@ A modern, responsive authentication page built using semantic HTML5 and advanced
 ## 🚀 Features
 * **Split-Screen Layout**: A dynamic two-column design using CSS Flexbox.
 * **Responsive Design**: Fully adaptable layout using Media Queries to ensure a seamless experience across mobile, tablet, and desktop.
-* **Semantic HTML**: Utilizes proper tags (<main>, <section>, <form>, <label>) for better SEO and screen reader support.
+* **Semantic HTML**: Utilizes proper tags (main, section, form, label) for better SEO and screen reader support.
 * **Modern CSS**: Implementation of box-sizing: border-box for predictable element sizing and custom branding colors.
 
 ## 🛠 Tech Stack
@@ -30,8 +30,8 @@ A modern, responsive authentication page built using semantic HTML5 and advanced
 **Box-Sizing:** To ensure that padding and borders don't increase the total width of the input fields.
 
 **Responsive Strategy:** The layout uses a media query breakpoint (576px and wider) to switch the flex-direction of the main container:
-        ***Mobile :** Elements are stacked vertically for easy scrolling.
-        ***Desktop :** The welcome hero and login form are placed side-by-side.
+  - **Mobile**: Elements are stacked vertically for easy scrolling.
+  - **Desktop**: The welcome hero and login form are placed side-by-side.
 
 
 ### ✍️ Author
