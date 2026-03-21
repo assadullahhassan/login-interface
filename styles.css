@@ -22,7 +22,7 @@ body {
 h1 {
     font-size: 2.5rem;
     font-weight: 400;
-    text-shadow: 0 2px #816fca;
+    text-shadow: 0 2px #7F00FF;
 }
 
 h2 {
@@ -87,7 +87,7 @@ p {
     min-height: 250px;
     text-align: center;
     color: #fff;
-    background: #9480e4 url("images/intro-bg.png");
+    background: #7F00FF url("images/intro-bg.png");
     background-size: cover;
     padding-bottom: 1.5em;
 }
