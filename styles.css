@@ -168,6 +168,10 @@ input:focus {
     background-color: #e6e8ec;
 }
 
+.input-label {
+    font-size: 1.2em;
+}
+
 .btn {
     text-transform: uppercase;
     font-weight: 900;
